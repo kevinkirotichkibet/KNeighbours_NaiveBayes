@@ -4,7 +4,7 @@ We are going to do two analysis:
     * Titanic Dataset Analysis
     * Spam Message Classification
     
-1. Titanic Dataset Analysis
+## 1. Titanic Dataset Analysis
 
   **Description**
     RMS Titanic was a British passenger ocean liner that sank in the North Atlantic Ocean on 15 April 1912, after striking an iceberg during her maiden voyage from Southampton to New York City. 1500 passengers of 2244 did not survive the crash, making it one of the deadliest ship sinking of all time. 
@@ -21,7 +21,7 @@ We are going to do two analysis:
       * Evaluation
       * Challenging the solution
       
-2. Spam Message Classification
+## 2. Spam Message Classification
  ---
   **Description**
     Classification of spam message using Naive Bayes Classification
